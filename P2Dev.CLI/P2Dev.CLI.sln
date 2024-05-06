@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P2Dev.CLI.Sample", "P2Dev.CLI.Sample\P2Dev.CLI.Sample.csproj", "{7DCE8808-8377-4DA1-B06A-4D83A2466E3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2Dev.CLI", "P2Dev.CLI\P2Dev.CLI.csproj", "{F25D1090-BA66-4049-89F0-8110A4C3C029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DCE8808-8377-4DA1-B06A-4D83A2466E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCE8808-8377-4DA1-B06A-4D83A2466E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCE8808-8377-4DA1-B06A-4D83A2466E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCE8808-8377-4DA1-B06A-4D83A2466E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25D1090-BA66-4049-89F0-8110A4C3C029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25D1090-BA66-4049-89F0-8110A4C3C029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25D1090-BA66-4049-89F0-8110A4C3C029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25D1090-BA66-4049-89F0-8110A4C3C029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDAEB63-A186-45BF-B028-F4100A1D23D8}
+	EndGlobalSection
+EndGlobal
