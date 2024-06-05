@@ -11,6 +11,8 @@
     <Description>This library provides a framework for easily building cli interfaces</Description>
     <PackageProjectUrl>https://github.com/P2Dev/P2Dev.CLI</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/P2Dev/P2Dev.CLI</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
